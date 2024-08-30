@@ -89,6 +89,7 @@ a:hover{
    height: 400px;
    display: flex;
    gap: 20px;
+   align-items: center;
 }
 #footer{
     color: white;
