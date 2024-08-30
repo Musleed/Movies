@@ -7,7 +7,7 @@ body{
 #nav{
     background-color: deepskyblue;
     height: 65px;
-    width: auto;
+    width: 1250px;
 }
 #image{
     width: 50px;
@@ -85,7 +85,7 @@ a:hover{
 }
 #foot{
     background-color: black;
-   width: 1200px;
+   width: 1300px;
    height: 400px;
    display: flex;
    gap: 20px;
